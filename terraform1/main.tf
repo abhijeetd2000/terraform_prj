@@ -14,6 +14,6 @@ provider "azurerm" {
 
 # Create a resource group
 resource "azurerm_resource_group" "example" {
-  name     = "example2020-resources"
+  name     = "example2021-resources"
   location = "West Europe"
 }
